@@ -1,7 +1,7 @@
 {
   "name": "bug-in-ts-lib",
   "version": "1.0.0",
-  "description": "Demonstrating npm bug",
+  "description": "Demonstrating tsc bug",
   "main": "demo.ts",
   "scripts": {
     "test": "tsc demo.ts"
