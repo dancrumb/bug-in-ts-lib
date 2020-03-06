@@ -1,0 +1,14 @@
+{
+  "name": "bug-in-ts-lib",
+  "version": "1.0.0",
+  "description": "Demonstrating npm bug",
+  "main": "demo.ts",
+  "scripts": {
+    "test": "tsc demo.ts"
+  },
+  "author": "Dan Rumney <dancrumb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
